@@ -5,7 +5,7 @@ const filters = [
   { label: 'All', value: 'all' },
   { label: 'Data & ML', value: 'data' },
   { label: 'Full Stack', value: 'fullstack' },
-  { label: 'Frontend', value: 'frontend' },
+  { label: 'Algorithms', value: 'algorithms' },
 ]
 
 export default function Projects() {
